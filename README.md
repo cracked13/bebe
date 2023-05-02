@@ -222,7 +222,7 @@
       "description": "Sonic theme",
       "status": "Mixed",
       "opacity": 0.7,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1079228804230295582/743842.png""
+      "imageURL": "https://media.tenor.com/yyofCYnEXksAAAAC/sonic-the-hedgehog-classic-sonic.gif""
     },
   ]
 }
